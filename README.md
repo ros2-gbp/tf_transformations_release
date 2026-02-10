@@ -1,3 +1,26 @@
+## tf_transformations (rolling) - 1.1.1-1
+
+The packages in the `tf_transformations` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -r rolling tf_transformations -y` on `Tue, 10 Feb 2026 16:28:46 -0000`
+
+The `tf_transformations` package was released.
+
+Version of package(s) in repository `tf_transformations`:
+
+- upstream repository: https://github.com/DLu/tf_transformations.git
+- release repository: https://github.com/ros2-gbp/tf_transformations_release.git
+- rosdistro version: `1.0.1-4`
+- old version: `1.0.1-4`
+- new version: `1.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## tf_transformations (kilted) - 1.1.1-2
 
 The packages in the `tf_transformations` repository were released into the `kilted` distro by running `/usr/bin/bloom-release -r kilted tf_transformations -y` on `Tue, 10 Feb 2026 16:26:59 -0000`
